@@ -11,4 +11,5 @@ cd pug-express
 npm init -y
 npm i express
 npm i -g json-server
+npm i pug
 ```
